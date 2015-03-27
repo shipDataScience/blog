@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Ship Data Science
+tagline:          Official Blog
+brandurl:         http://www.shipdatascience.com
+url:              http://blog.shipdatascience.com
+paginate:         10
+baseurl:          /
+author:
+  name:           Ryan Gehring
+  url:            http://www.shipdatascience.com
+  email:          info@shipdatascience.com 
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/shipdatascience/blog
