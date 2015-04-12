@@ -1,21 +1,11 @@
 ---
 layout: post
-title: Yet more new stuff!
+title: Lab Leak &#35;2
 ---
 
-Big week this one! Check out the sweet new features:
-
- * Github Webhooks now available in project settings!
- * Brand-spanking new project summary page with lots of info-tastic goodies!
- * Branches are now first-class citizens throughout the experience!
- * Account page redesign!
- * Project page redesign!
- * Project settings redesign!
- * Mailers for account essentials---with a whole notification center on the way!
-
+Another little bit of teaser info! Notifications, redesigns galore, new module API.
 Things are looking good and we hope to have something for the public soon.
 
 Happy hacking!
 
-RG
 
