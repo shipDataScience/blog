@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Ship Data Science
@@ -22,3 +21,6 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/shipdatascience/blog
+
+# Gems
+gems: [jekyll-paginate]
